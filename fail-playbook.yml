@@ -3,3 +3,4 @@
   tasks:
     - fail: 
         msg: "Throw an intentional error"
+      ignore_errors: yes
